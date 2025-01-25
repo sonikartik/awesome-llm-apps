@@ -31,7 +31,7 @@ An interactive Tic-Tac-Toe game where two AI agents powered by different languag
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/sonikartik/awesome-llm-apps.git
    cd ai_agent_tutorials/ai_tic_tac_toe_agent
 
    # Install dependencies

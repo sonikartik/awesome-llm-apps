@@ -37,7 +37,7 @@ Before anything else, Please get a free Gemini API Key provided by Google AI her
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/sonikartik/awesome-llm-apps.git
    cd awesome-llm-apps/ai_agent_tutorials/ai_health_fitness_agent
    ```
 
